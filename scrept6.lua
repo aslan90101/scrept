@@ -57,9 +57,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/first-pers
 local Section = ScriptsSection:CreateSection("soon")
  
 local Button = ScriptsSection:CreateButton({
-   Name = "spin player👌",
+   Name = "Nut Hub Universal🎶",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdf/refs/heads/main/spinbot.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/01iq/scripthub/refs/heads/main/solara", true))()
         end,
 })
  
