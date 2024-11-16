@@ -53,6 +53,12 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/gfgf/refs/heads/main/uu.lua", true))()
         end,
 })
+local Button = ScriptsSection:CreateButton({
+   Name = "ESP💀💀💀",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-esp/main/main.lua", true))()
+        end,
+})
 
 local Button = ScriptsSection:CreateButton({
    Name = "флай вперед без кика😃😃😮🦅",
