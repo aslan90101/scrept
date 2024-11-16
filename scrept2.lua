@@ -107,7 +107,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/
 local Button = ScriptsSection:CreateButton({
    Name = "spin player ресет-стоп😍",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/spin-player/refs/heads/main/spin.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/spinnn/refs/heads/main/spiin.lua", true))()
         end,
 })
  
