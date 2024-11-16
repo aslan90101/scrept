@@ -46,7 +46,14 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/Verbalhub.lua", true))()
         end,
 })
- 
+
+local Button = ScriptsSection:CreateButton({
+   Name = "SUPER STRENGHT🦅🦅🦅",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/st/refs/heads/main/SUP%20STR", true))()
+        end,
+})
+
 local Button = ScriptsSection:CreateButton({
    Name = "unlock first person😃",
    Callback = function()
@@ -54,7 +61,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/first-pers
         end,
 })
  
-local Section = ScriptsSection:CreateSection("soon")
+local Section = ScriptsSection:CreateSection("Universal")
  
 local Button = ScriptsSection:CreateButton({
    Name = "Nut Hub Universal🎶",
@@ -170,5 +177,6 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfdfdfd/refs/heads/main/fff.lua", true))()
         end,
 })
+
 
 
