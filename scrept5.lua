@@ -48,9 +48,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub
 })
  
 local Button = ScriptsSection:CreateButton({
-   Name = "soon",
+   Name = "unlock first person😃",
    Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/3P65LE1t)", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/first-person/refs/heads/main/ufp.lua", true))()
         end,
 })
  
