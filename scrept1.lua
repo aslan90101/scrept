@@ -114,9 +114,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/spin-playe
 local Section = ScriptsSection:CreateSection("soon")
  
 local Button = ScriptsSection:CreateButton({
-   Name = "soon",
+   Name = "Ctrl+ClickTP",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/murdersvssherrifsduels/main/rubyhub", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/TP/refs/heads/main/TP.lua", true))()
         end,
 })
  
