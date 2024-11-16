@@ -57,7 +57,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/gfgf/refs/
 local Button = ScriptsSection:CreateButton({
    Name = "флай вперед без кика😃😃😮🦅",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dhjfgdhj/refs/heads/main/ggg.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dhjfgdhj/refs/heads/main/gggg.lua", true))()
         end,
 })
 
