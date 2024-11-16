@@ -48,6 +48,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub
 })
 
 local Button = ScriptsSection:CreateButton({
+   Name = "Anti Grab😮",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/gfgf/refs/heads/main/uu.lua", true))()
+        end,
+})
+
+local Button = ScriptsSection:CreateButton({
    Name = "SUPER STRENGHT🦅🦅🦅",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/st/refs/heads/main/SUP%20STR", true))()
