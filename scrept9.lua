@@ -157,3 +157,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfsfsf/ref
         end,
 })
 
+local Button = ScriptsSection:CreateButton({
+   Name = "ступеньки в небо",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfdfdfd/refs/heads/main/fff.lua", true))()
+        end,
+})
+
