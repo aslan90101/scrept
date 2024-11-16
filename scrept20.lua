@@ -63,7 +63,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-esp/main
 local Button = ScriptsSection:CreateButton({
    Name = "флай вперед без кика😃😃😮🦅",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dhjfgdhj/refs/heads/main/gggg.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dhjfgdhj/refs/heads/main/gggпп.lua", true))()
         end,
 })
 
