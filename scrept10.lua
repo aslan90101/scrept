@@ -123,7 +123,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/TP/refs/he
 local Button = ScriptsSection:CreateButton({
    Name = "GUI superJump",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdffdd/refs/heads/main/ggggggg.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdffdd/refs/heads/main/gggggg.lua", true))()
         end,
 })
 
