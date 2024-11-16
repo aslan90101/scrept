@@ -68,6 +68,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dhjfgdhj/r
 })
 
 local Button = ScriptsSection:CreateButton({
+   Name = "Soalra Hub??😮",
+   Callback = function()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Serenade-Hub-14102", true))()
+        end,
+})
+
+local Button = ScriptsSection:CreateButton({
    Name = "SUPER STRENGHT🦅🦅🦅",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/st/refs/heads/main/SUP%20STRR", true))()
