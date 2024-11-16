@@ -57,9 +57,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/first-pers
 local Section = ScriptsSection:CreateSection("soon")
  
 local Button = ScriptsSection:CreateButton({
-   Name = "soon",
+   Name = "spin player👌",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/murdersvssherrifsduels/main/rubyhub", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdf/refs/heads/main/spinbot.lua", true))()
         end,
 })
  
