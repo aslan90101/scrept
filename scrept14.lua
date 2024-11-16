@@ -57,7 +57,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/gfgf/refs/
 local Button = ScriptsSection:CreateButton({
    Name = "SUPER STRENGHT🦅🦅🦅",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/st/refs/heads/main/SUP%20STR", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/st/refs/heads/main/SUP%20STRR", true))()
         end,
 })
 
