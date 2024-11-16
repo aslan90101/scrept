@@ -119,7 +119,14 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/TP/refs/heads/main/TP.lua", true))()
         end,
 })
- 
+
+local Button = ScriptsSection:CreateButton({
+   Name = "GUI superJump",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdffdd/refs/heads/main/ggggggg.lua", true))()
+        end,
+})
+
 local ScriptsSection = Window:CreateTab("Building", nil) -- Title, Image
 local Section = ScriptsSection:CreateSection("спавн на спавне")
  
@@ -163,4 +170,5 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfdfdfd/refs/heads/main/fff.lua", true))()
         end,
 })
+
 
