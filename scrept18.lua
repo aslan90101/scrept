@@ -83,27 +83,7 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/01iq/scripthub/refs/heads/main/solara", true))()
         end,
 })
- 
- 
- 
-local PlayerMain = Window:CreateTab("TP TOOL(PATCHED)", nil) -- Title, Image
-local Section = PlayerMain:CreateSection("Player")
- 
-local Button = PlayerMain:CreateButton({
-   Name = "TP TOOL 🔥",
-   Callback = function()
-mouse = game.Players.LocalPlayer:GetMouse()
-tool = Instance.new("TOOL")
-tool.RequiresHandle = false
-tool.Name = "Tp tool(Equip to Click TP)"
-tool.Activated:connect(function()
-local pos = mouse.Hit+Vector3.new(0,2.5,0)
-pos = CFrame.new(pos.X,pos.Y,pos.Z)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
-end)
-tool.Parent = game.Players.LocalPlayer.Backpack
-        end,
-})
+
 local ScriptsSection = Window:CreateTab("Player 🤓", nil) -- Title, Image
 local Section = ScriptsSection:CreateSection("Noclip!?")
  
