@@ -172,9 +172,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgdlfklf/r
 local Section = ScriptsSection:CreateSection("палочки")
  
 local Button = ScriptsSection:CreateButton({
-   Name = "палки леветирующие",
+   Name = "палки радужные",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfsfsf/refs/heads/main/gggпgg.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfsfsf/refs/heads/main/ggggg.lua", true))()
         end,
 })
 
