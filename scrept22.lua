@@ -141,7 +141,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdffdd/ref
         end,
 })
 
-local ScriptsSection = Window:CreateTab("Building", nil) -- Title, Image
+local ScriptsSection = Window:CreateTab("Building👷‍♂️👷‍♂️", nil) -- Title, Image
 local Section = ScriptsSection:CreateSection("спавн на спавне")
  
  
