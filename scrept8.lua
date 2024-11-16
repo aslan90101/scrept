@@ -120,6 +120,40 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/TP/refs/he
         end,
 })
  
+local ScriptsSection = Window:CreateTab("Building", nil) -- Title, Image
+local Section = ScriptsSection:CreateSection("спавн на спавне")
  
+ 
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "Квадрат радужный",
+   Callback = function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/spawn/refs/heads/main/spawnn.lua'))()
+        end,
+})
+ 
+local Section = ScriptsSection:CreateSection("круги")
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "цилиндр радужный",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/-/refs/heads/main/sss.lua", true))()
+        end,
+})
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "круг радужный",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgdlfklf/refs/heads/main/sssss.lua", true))()
+        end,
+})
+ 
+local Section = ScriptsSection:CreateSection("палочки")
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "палки леветирующие",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfsfsf/refs/heads/main/gggпgg.lua", true))()
+        end,
+})
 
- 
