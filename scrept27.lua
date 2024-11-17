@@ -162,6 +162,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/-/refs/hea
         end,
 })
  
+ local Button = ScriptsSection:CreateButton({
+   Name = "платформа большая🤪🤪",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgfg/refs/heads/main/sppppp.lua", true))()
+        end,
+})
+
 local Button = ScriptsSection:CreateButton({
    Name = "круг радужный⭕⭕",
    Callback = function()
@@ -207,9 +214,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Simple-Scripts
 })
  
 local Button = ScriptsSection:CreateButton({
-   Name = "круг радужный(пусть останется)🙌",
+   Name = "круг радужный(большой)🙌",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgdlfklf/refs/heads/main/sssss.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgfdf/refs/heads/main/REAhDME.lua", true))()
         end,
 })
  
@@ -228,5 +235,7 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfdfdfd/refs/heads/main/fff.lua", true))()
         end,
 })
+
+
 
 
