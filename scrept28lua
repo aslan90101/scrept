@@ -141,7 +141,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdffdd/ref
         end,
 })
 
-local ScriptsSection = Window:CreateTab("Building👷‍♂️👷‍♂️", nil) -- Title, Image
+local ScriptsSection = Window:CreateTab("Building👷‍♂️👷‍♂!FE!", nil) -- Title, Image
 local Section = ScriptsSection:CreateSection("спавн на спавне🧐🧐")
  
  
@@ -214,7 +214,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Simple-Scripts
 })
  
 local Button = ScriptsSection:CreateButton({
-   Name = "круг радужный(большой)🙌",
+   Name = "круг радужный большой !FE!🙌",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgfdf/refs/heads/main/REAhDME.lua", true))()
         end,
