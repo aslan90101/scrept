@@ -170,6 +170,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgfg/refs/
 })
 
 local Button = ScriptsSection:CreateButton({
+   Name = "250 кубиков⬜⬜⬜",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/sdafhgd/refs/heads/main/dsgdfjdsf.lua", true))()
+        end,
+})
+
+local Button = ScriptsSection:CreateButton({
    Name = "круг радужный⭕⭕",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgdlfklf/refs/heads/main/sssss.lua", true))()
@@ -235,7 +242,5 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfdfdfd/refs/heads/main/fff.lua", true))()
         end,
 })
-
-
 
 
