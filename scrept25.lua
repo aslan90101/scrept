@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/fdfd/refs/heads/main/bacground.lua'))()
  
 local Window = Rayfield:CreateWindow({
    Name = "🌸 фтап скрипт хаб | Game 🌸",
