@@ -53,6 +53,14 @@ local Button = ScriptsSection:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/gfgf/refs/heads/main/uu.lua", true))()
         end,
 })
+
+local Button = ScriptsSection:CreateButton({
+   Name = "Draw Chat😋😋",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DanOnScripts/Chat_Drawing/main/DanOnScripts", true))()
+        end,
+})
+
 local Button = ScriptsSection:CreateButton({
    Name = "ESP💀💀💀",
    Callback = function()
