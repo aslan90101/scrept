@@ -142,48 +142,91 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fdffdd/ref
 })
 
 local ScriptsSection = Window:CreateTab("Building👷‍♂️👷‍♂️", nil) -- Title, Image
-local Section = ScriptsSection:CreateSection("спавн на спавне")
+local Section = ScriptsSection:CreateSection("спавн на спавне🧐🧐")
  
  
  
 local Button = ScriptsSection:CreateButton({
-   Name = "Квадрат радужный",
+   Name = "Квадрат радужный💟💟⬜",
    Callback = function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/spawn/refs/heads/main/spawnn.lua'))()
         end,
 })
  
-local Section = ScriptsSection:CreateSection("круги")
+local Section = ScriptsSection:CreateSection("круги💞")
  
 local Button = ScriptsSection:CreateButton({
-   Name = "цилиндр радужный",
+   Name = "цилиндр радужный👏👏",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/-/refs/heads/main/sss.lua", true))()
         end,
 })
  
 local Button = ScriptsSection:CreateButton({
-   Name = "круг радужный",
+   Name = "круг радужный⭕⭕",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgdlfklf/refs/heads/main/sssss.lua", true))()
         end,
 })
  
-local Section = ScriptsSection:CreateSection("палочки")
+local Section = ScriptsSection:CreateSection("палочки😍")
  
 local Button = ScriptsSection:CreateButton({
-   Name = "палки радужные",
+   Name = "палки радужные👹👹👹",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfsfsf/refs/heads/main/ggggg.lua", true))()
         end,
 })
 
 local Button = ScriptsSection:CreateButton({
-   Name = "ступеньки в небо",
+   Name = "ступеньки в небо😶‍🌫️😶‍🌫️😶‍🌫️",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfdfdfd/refs/heads/main/fff.lua", true))()
         end,
 })
 
+local ScriptsSection = Window:CreateTab("Universal Scripts🤩🤩", nil) -- Title, Image
+local Section = ScriptsSection:CreateSection("дополнение ©©©")
+ 
+ 
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "50/50 script😶",
+   Callback = function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/9QyWJ5n1'),true))()
+        end,
+})
+ 
+local Section = ScriptsSection:CreateSection("универсальные письки🤞🤞")
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "ахуенный скрипт😎😎",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Simple-Scripts/main/Simple%20V3", true))()
+        end,
+})
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "круг радужный(пусть останется)🙌",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/fgdlfklf/refs/heads/main/sssss.lua", true))()
+        end,
+})
+ 
+local Section = ScriptsSection:CreateSection("трахательные приборы😴😴")
+ 
+local Button = ScriptsSection:CreateButton({
+   Name = "шароёбит игрока по карте(не тебя)🦅",
+   Callback = function()
+loadstring(game:HttpGet("https://paste.ee/r/NTtmf", true))()
+        end,
+})
+
+local Button = ScriptsSection:CreateButton({
+   Name = "вроде имба🙌🙌",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aslan90101/dfdfdfd/refs/heads/main/fff.lua", true))()
+        end,
+})
 
 
